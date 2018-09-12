@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
         "source": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\9365ce18bc62f9c048209f620b442674\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
@@ -340,20 +340,20 @@
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
-        "source": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
-    },
-    {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
     },
     {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\9365ce18bc62f9c048209f620b442674\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -396,12 +396,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97984f93449c78bf2cf1145f6d5e8b1f\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\9365ce18bc62f9c048209f620b442674\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
         "source": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\9365ce18bc62f9c048209f620b442674\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\Downloads\\MobileAppAutomationTest-master\\AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
